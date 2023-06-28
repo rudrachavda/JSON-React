@@ -5,4 +5,5 @@ function calculateSquare() {
     
     document.getElementById("n-value").textContent = n;
     document.getElementById("square-value").textContent = squareResult;
-  }
+}
+
